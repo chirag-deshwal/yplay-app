@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "305680278324",
+    "project_id": "im-y-player",
+    "storage_bucket": "im-y-player.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305680278324:android:f7d819d84fd88ced143b61",
+        "android_client_info": {
+          "package_name": "com.dtrand.yplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolAvfoFNEyYOuY_lA4B1mE22M4pNo-fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-4325597781370760~9052302082"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305680278324:android:637bcc8a57b4dfce143b61",
+        "android_client_info": {
+          "package_name": "com.dtrand.yplay.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolAvfoFNEyYOuY_lA4B1mE22M4pNo-fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
